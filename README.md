@@ -84,6 +84,9 @@ A web-based application for managing notes in a work environment. This project f
 - **Login Page:** Secure authentication for employees.
 - **Notes Management:**
   - Add, edit, view, or delete notes based on permissions.
+ 
+![Login Page](screenshots/screen1.png)
+![Dashboard](screenshots/screen2.png)
 
 ## Contributing
 1. Fork the repository.
