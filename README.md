@@ -67,7 +67,9 @@ A web-based application for managing notes in a work environment. This project f
 1. Access the application in your browser:
    - Public page: `/`
    - Login: `/login`
+   - Dashboard: `/dashboard`
 2. Login with employee, manager, or admin credentials.
+3. Use the dashboard to manage notes and user settings as per your role.
 
 ## Roles and Permissions
 - **Employees:**
@@ -79,7 +81,6 @@ A web-based application for managing notes in a work environment. This project f
   - Remove user access immediately if necessary.
 
 ## Screens and Navigation
-- **Public Page:** Basic contact information.
 - **Login Page:** Secure authentication for employees.
 - **Notes Management:**
   - Add, edit, view, or delete notes based on permissions.
